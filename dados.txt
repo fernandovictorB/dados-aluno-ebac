@@ -1,12 +1,25 @@
 Dados do aluno
 
 -Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+ Fernando Victor
 
+-Profissão:
+ Empresário 
+
+-Cidade:
+ São Carlos-SP
+
+-O que faz nas horas vaga:
+ Estudo, vou passear com meu cachorro, saiu com minha esposa 
+
+-Feedback sobre o curso Qualidade de Software:
+ O curso é muito bom, bem direto ao ponto em questão,
+ porém deveria se aprofuduar um pouco mais em alguns assuntos mais complexos,
+ devido que tem alguns alunos que estão começando sua jornada na tecnologia.
+
+-Feedback sobre a plataforma de estudo da EBAC:
+ simples, fácil de usar.
+  
 Obrigado!!!
 
 
